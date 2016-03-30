@@ -1,0 +1,12 @@
+{
+  "name": "string-funcs",
+  "version": "0.0.0",
+  "description": "string-funcs module",
+  "repository": "jeromedecoster/string-funcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
